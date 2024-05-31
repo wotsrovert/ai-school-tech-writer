@@ -20,3 +20,5 @@ def call_openai(prompt):
 
 def update_readme_and_create_pr(repo, updated_readme, readme_sha):
     pass
+
+print( "Hi Trevor" )
