@@ -1,0 +1,10 @@
+__pycache__
+.env
+.ipynb_checkpoints
+.venv/
+bin
+etc/jupyter
+include
+lib/python3.12
+pyvenv.cfg
+share/
